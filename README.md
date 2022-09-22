@@ -1,6 +1,6 @@
 # Músicas e Artistas
 
-![preview](../.github/preview.png)
+![preview](./github/preview.png)
 
 [Clique aqui para acessar](https://juliasalvador19.github.io/Songs/)
 
